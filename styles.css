@@ -1,0 +1,21 @@
+.bigBox{
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+.box{
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+}
+#boxRed{
+    background-color: red;
+}
+#boxBlue{
+    background-color: blue;
+}
+#boxMagenta{
+    background-color: magenta;
+}#boxGrey{
+    background-color: grey;
+}
